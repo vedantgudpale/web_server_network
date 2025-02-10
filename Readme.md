@@ -75,3 +75,8 @@ This project can be further expanded upon by:
 *   Exploring other server services in Packet Tracer, such as FTP or Email servers, within the same network topology.
 
 This project serves as a foundational example of a client-server web network built and simulated within Packet Tracer, suitable for educational purposes and demonstrating basic networking principles.
+
+
+# Packet Tracer Web Server Network Simulation
+
+**Disclaimer:** This **Packet Tracer project file (.pkt)** is provided as an educational resource, for learning purposes only. It is not intended for commercial use. Simulations of websites within this file are for demonstration and are not affiliated with or endorsed by the respective entities.
