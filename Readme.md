@@ -65,7 +65,7 @@ This repository contains the following files:
 *   **`web_server_network.pkt`:**  The Cisco Packet Tracer file containing the network topology and device configurations for this project.
 *   **`README.md`:**  This file, providing an overview of the project, setup instructions, and concepts demonstrated.
 
-## Further Enhancements (Optional)
+## Further Enhancements 
 
 This project can be further expanded upon by:
 
